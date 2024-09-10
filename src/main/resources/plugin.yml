@@ -1,0 +1,7 @@
+name: ACNetVigil-Minecraft
+version: '1.0-SNAPSHOT'
+main: es.netvigil.myAnticheat.NetVigilAC
+api-version: '1.21'
+authors: [ PTKares ]
+description: NetVigil AntiCheat
+website: https://www.netvigil.es
