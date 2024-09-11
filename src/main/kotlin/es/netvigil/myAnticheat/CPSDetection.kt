@@ -1,4 +1,4 @@
-package com.myplugin.anticheat
+package es.netvigil.myAnticheat
 
 import org.bukkit.Bukkit
 import org.bukkit.event.EventHandler
