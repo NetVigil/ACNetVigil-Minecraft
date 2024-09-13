@@ -19,6 +19,7 @@ repositories {
 dependencies {
     compileOnly("org.spigotmc:spigot-api:1.21.1-R0.1-SNAPSHOT")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+    implementation("org.mongodb:mongodb-driver-kotlin-coroutine:5.1.4")
 }
 
 val targetJavaVersion = 21
