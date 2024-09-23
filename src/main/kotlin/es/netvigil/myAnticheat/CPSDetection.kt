@@ -9,7 +9,7 @@ import java.util.*
 
 class CPSDetection : Listener {
     private val playerClicks = mutableMapOf<UUID, MutableList<Long>>()
-    private val maxCPS = 15 // Máximo número de clics permitidos por segundo
+    private val maxCPS = 10 // Máximo número de clics permitidos por segundo
 
     @EventHandler
     fun onPlayerClick(event: PlayerInteractEvent) {
